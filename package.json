@@ -1,5 +1,6 @@
 {
   "name": "dvstat",
+  "homepage": "https://livek1.github.io/dv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
